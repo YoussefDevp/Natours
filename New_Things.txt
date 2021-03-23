@@ -1,0 +1,2 @@
+animation: moveBottom .8s ease-out .75s;
+animation-fill-mode: backwards;
